@@ -1,2 +1,2 @@
 # ohd-cheat
-A Cheat for Operation: Harsh Doorstop
+Just a dll for an Operation: Harsh Doorstop cheat developed for learning purposes
